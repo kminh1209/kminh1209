@@ -16,7 +16,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kminh1209)](https://solved.ac/kminh1209)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminh1209&layout=레이아웃 스타일&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminh1209&theme=dark)
 
 
 <!--
