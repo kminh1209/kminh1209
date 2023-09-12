@@ -2,8 +2,8 @@
 
 
 
-### Hi there 👋
-### 명지대학교 19학번 강민혁입니다.
+### 👋 Hi there 👋
+### 💻명지대학교 19학번 강민혁입니다.
 
 ### 📖 Languages 📖
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
