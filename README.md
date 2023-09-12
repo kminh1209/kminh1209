@@ -13,6 +13,10 @@
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kminh1209)](https://solved.ac/kminh1209)
+
 <!--
 **kminh1209/kminh1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
