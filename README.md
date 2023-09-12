@@ -16,6 +16,8 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kminh1209)](https://solved.ac/kminh1209)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminh1209&layout=레이아웃 스타일&theme=dark)
+
 
 <!--
 **kminh1209/kminh1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
