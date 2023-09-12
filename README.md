@@ -5,11 +5,10 @@
 </br>
 
 ### 📖 Languages 📖
-<div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
+
 
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
