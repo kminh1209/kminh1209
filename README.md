@@ -2,7 +2,7 @@
 ### 👋 Hi there 👋
 ### 💻명지대학교 19학번 강민혁입니다.
 
-### Certification
+### <Certification>
 ![microsoft-certified-azure-ai-fundamentals (1)](https://github.com/user-attachments/assets/deb93edd-fd5e-435e-9195-bafcbac3214f)
 
 
