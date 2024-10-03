@@ -2,6 +2,9 @@
 ### 👋 Hi there 👋
 ### 💻명지대학교 19학번 강민혁입니다.
 
+### Certification
+<img src="https://www.credly.com/badges/31844eeb-b8f0-49d2-853c-81fa9eeb8c65/public_url"/></a>
+
 ### 📖 Languages 📖
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/></a> 
