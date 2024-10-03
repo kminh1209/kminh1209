@@ -3,7 +3,8 @@
 ### 💻명지대학교 19학번 강민혁입니다.
 
 ### Certification
-<img src="https://www.credly.com/badges/31844eeb-b8f0-49d2-853c-81fa9eeb8c65/public_url"/></a>
+![microsoft-certified-azure-ai-fundamentals](https://github.com/user-attachments/assets/085445d9-65d8-4982-a2fe-4543ceb367a1)
+
 
 ### 📖 Languages 📖
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
